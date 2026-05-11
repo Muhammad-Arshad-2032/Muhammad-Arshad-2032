@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Qari Muhammad Arshad</h1>
 
 <h3 align="center">
-AI & ML Engineer from Pakistan 🇵🇰
+AI & ML Engineer from Pakistan 
+<img src="https://flagcdn.com/w40/pk.png" width="25"/>
 </h3>
 
 <p align="center">
