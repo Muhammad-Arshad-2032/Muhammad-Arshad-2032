@@ -27,7 +27,7 @@ AI & ML Engineer from Pakistan
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-arshad" target="blank">
+<a href=www.linkedin.com/in/muhammad-arshad-383a87304 target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
